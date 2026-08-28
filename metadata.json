@@ -1,0 +1,6 @@
+{
+  "name": "2026 담양여중 상하이 역사·문화·독서·과학 융합 탐방",
+  "description": "담양여자중학교(담양여중) 3학년을 위한 2026 상하이 역사·문화·독서(『맞바꾼 회중시계』)·과학 융합 탐방 디지털 가이드 및 인터랙티브 학습 플랫폼",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
